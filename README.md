@@ -27,7 +27,7 @@
 首先，你应该要将这个代码库克隆到你的磁盘上，并进入此目录。启动命令行窗口，键入：
 
 ```
-git clone https://github.com/ShawnyXiao/SpringBoot-MyBatis.git
+git clone https://github.com/aaaasssdd/SpringBoot-MyBatis.git
 cd SpringBoot-MyBatis
 ```
 
